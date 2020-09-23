@@ -1,5 +1,4 @@
-module vector-maths
+module github.com/calebikhuohon/vector-maths
 
 go 1.15
 
-require github.com/stretchr/testify v1.6.1
